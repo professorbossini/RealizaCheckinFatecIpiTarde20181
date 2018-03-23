@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Realiza Checkin Fatec Ipi Tarde</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="explicacao_gps">É preciso habilitar o GPS para poder fazer checkin.</string>
+    <string name="mapa_indisponivel">Mapa indisponível, impossível fazer checkin.</string>
+    <string name="gps_indisponivel">GPS indisponível. Fazendo checkin na Paulista.</string>
+    <string name="estou_aqui">Estou aqui!!!</string>
+    <string name="explicacao_camera">Para tirar foto é preciso acessar a câmera</string>
+</resources>
